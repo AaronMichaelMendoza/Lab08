@@ -1,0 +1,13 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/aaron_mendoza1/Documents/GitHub/Lab08/Lab08_project/Lab08_project.sim/sim_4/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/aaron_mendoza1/Documents/GitHub/Lab08/Lab08_project/codedirectory/add3.sv,1602706794,systemVerilog,,C:/Users/aaron_mendoza1/Documents/GitHub/Lab08/Lab08_project/codedirectory/an_decoder.sv,,add3,,,,,,,,
+C:/Users/aaron_mendoza1/Documents/GitHub/Lab08/Lab08_project/codedirectory/an_decoder.sv,1602782051,systemVerilog,,C:/Users/aaron_mendoza1/Documents/GitHub/Lab08/Lab08_project/codedirectory/an_decoder_test.sv,,an_decoder,,,,,,,,
+C:/Users/aaron_mendoza1/Documents/GitHub/Lab08/Lab08_project/codedirectory/an_decoder_test.sv,1602781997,systemVerilog,,,,an_decoder_test,,,,,,,,
+C:/Users/aaron_mendoza1/Documents/GitHub/Lab08/Lab08_project/codedirectory/basys3.sv,1602778193,systemVerilog,,C:/Users/aaron_mendoza1/Documents/GitHub/Lab08/Lab08_project/codedirectory/mux4.sv,,basys3,,,,,,,,
+C:/Users/aaron_mendoza1/Documents/GitHub/Lab08/Lab08_project/codedirectory/eleven_bit_BCD.sv,1602777726,systemVerilog,,C:/Users/aaron_mendoza1/Documents/GitHub/Lab08/Lab08_project/codedirectory/sseg_decoder.sv,,eleven_bit_BCD,,,,,,,,
+C:/Users/aaron_mendoza1/Documents/GitHub/Lab08/Lab08_project/codedirectory/mux2.sv,1602780193,systemVerilog,,C:/Users/aaron_mendoza1/Documents/GitHub/Lab08/Lab08_project/codedirectory/add3.sv,,mux2,,,,,,,,
+C:/Users/aaron_mendoza1/Documents/GitHub/Lab08/Lab08_project/codedirectory/mux4.sv,1602780536,systemVerilog,,C:/Users/aaron_mendoza1/Documents/GitHub/Lab08/Lab08_project/codedirectory/eleven_bit_BCD.sv,,mux4,,,,,,,,
+C:/Users/aaron_mendoza1/Documents/GitHub/Lab08/Lab08_project/codedirectory/sseg_decoder.sv,1602173771,systemVerilog,,C:/Users/aaron_mendoza1/Documents/GitHub/Lab08/Lab08_project/codedirectory/mux2.sv,,sseg_decoder,,,,,,,,

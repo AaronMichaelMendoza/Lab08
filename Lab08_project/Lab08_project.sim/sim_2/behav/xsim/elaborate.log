@@ -1,0 +1,24 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/XilinxVivado/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 4975088f9a904ac6b1a0b4e8376a7dad --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot basys3_behav xil_defaultlib.basys3 xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-5021] port 'clk' is not connected on this instance [C:/Users/aaron_mendoza1/Documents/GitHub/Lab08/Lab08_project/codedirectory/basys3.sv:31]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.add3
+Compiling module xil_defaultlib.eleven_bit_BCD
+Compiling module xil_defaultlib.mux2
+Compiling module xil_defaultlib.mux4
+Compiling module xil_defaultlib.sseg_decoder
+Compiling module xil_defaultlib.an_decoder
+Compiling module xil_defaultlib.mux2(BITS=7)
+Compiling module xil_defaultlib.sseg4
+Compiling module xil_defaultlib.sseg4_manual
+Compiling module xil_defaultlib.disp
+Compiling module xil_defaultlib.basys3
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot basys3_behav

@@ -1,0 +1,9 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/aaron_mendoza1/Documents/GitHub/Lab08/Lab08_project/Lab08_project.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/aaron_mendoza1/Documents/GitHub/Lab08/Lab08_project/codedirectory/add3.sv,1602706794,systemVerilog,,C:/Users/aaron_mendoza1/Documents/GitHub/Lab08/Lab08_project/codedirectory/eleven_bit_BCD.sv,,add3,,,,,,,,
+C:/Users/aaron_mendoza1/Documents/GitHub/Lab08/Lab08_project/codedirectory/eleven_bit_BCD.sv,1602777726,systemVerilog,,,,eleven_bit_BCD,,,,,,,,
+C:/Users/aaron_mendoza1/Documents/GitHub/Lab08/Lab08_project/codedirectory/mux2.sv,1602780193,systemVerilog,,C:/Users/aaron_mendoza1/Documents/GitHub/Lab08/Lab08_project/codedirectory/mux2_test.sv,,mux2,,,,,,,,
+C:/Users/aaron_mendoza1/Documents/GitHub/Lab08/Lab08_project/codedirectory/mux2_test.sv,1602780758,systemVerilog,,,,mux2_test,,,,,,,,

@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../codedirectory/basys3.sv" \
+"../../../../codedirectory/mux4.sv" \
+"../../../../codedirectory/eleven_bit_BCD.sv" \
+"../../../../codedirectory/sseg_decoder.sv" \
+"../../../../codedirectory/mux2.sv" \
+"../../../../codedirectory/add3.sv" \
+"../../../../codedirectory/an_decoder.sv" \
+"../../../../codedirectory/an_decoder_test.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

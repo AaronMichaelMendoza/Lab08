@@ -1,0 +1,8 @@
+
+*** Running vivado
+    with args -log mux2.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source mux2.tcl
+
+
+
+*** Halting run - EA reset detected ***
+
