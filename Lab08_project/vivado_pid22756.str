@@ -1,0 +1,163 @@
+/*
+
+Xilinx Vivado v2020.1 (64-bit) [Major: 2020, Minor: 1]
+SW Build: 2902540 on Wed May 27 19:54:49 MDT 2020
+IP Build: 2902112 on Wed May 27 22:43:36 MDT 2020
+
+Process ID (PID): 22756
+License: Customer
+
+Current time: 	Sat Oct 17 13:25:46 CDT 2020
+Time zone: 	Central Standard Time (America/Chicago)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 8
+
+Screen size: 3240x2160
+Screen resolution (DPI): 200
+Available screens: 1
+Default font: family=Segoe UI,name=Segoe UI,style=plain,size=24
+
+Java version: 	9.0.4 64-bit
+Java home: 	C:/Xilinx/Vivado/2020.1/tps/win64/jre9.0.4
+Java executable location: 	C:/Xilinx/Vivado/2020.1/tps/win64/jre9.0.4/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 3 GB
+
+
+User name: 	ammic
+User home directory: C:/Users/ammic
+User working directory: C:/Users/ammic/OneDrive/Documents/GitHub/Lab08/Lab08_project
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+RDI_BASEROOT: C:/Xilinx/Vivado
+HDI_APPROOT: C:/Xilinx/Vivado/2020.1
+RDI_DATADIR: C:/Xilinx/Vivado/2020.1/data
+RDI_BINDIR: C:/Xilinx/Vivado/2020.1/bin
+
+Vivado preferences file location: C:/Users/ammic/AppData/Roaming/Xilinx/Vivado/2020.1/vivado.xml
+Vivado preferences directory: C:/Users/ammic/AppData/Roaming/Xilinx/Vivado/2020.1/
+Vivado layouts directory: C:/Users/ammic/AppData/Roaming/Xilinx/Vivado/2020.1/data/layouts
+PlanAhead jar file location: 	C:/Xilinx/Vivado/2020.1/lib/classes/planAhead.jar
+Vivado log file location: 	C:/Users/ammic/OneDrive/Documents/GitHub/Lab08/Lab08_project/vivado.log
+Vivado journal file location: 	C:/Users/ammic/OneDrive/Documents/GitHub/Lab08/Lab08_project/vivado.jou
+Engine tmp dir: 	C:/Users/ammic/OneDrive/Documents/GitHub/Lab08/Lab08_project/.Xil/Vivado-22756-DESKTOP-Q9L58VR
+
+Xilinx Environment Variables
+----------------------------
+XILINX: C:/Xilinx/Vivado/2020.1/ids_lite/ISE
+XILINX_DSP: C:/Xilinx/Vivado/2020.1/ids_lite/ISE
+XILINX_PLANAHEAD: C:/Xilinx/Vivado/2020.1
+XILINX_VIVADO: C:/Xilinx/Vivado/2020.1
+XILINX_VIVADO_HLS: C:/Xilinx/Vivado/2020.1
+
+
+GUI allocated memory:	143 MB
+GUI max memory:		3,072 MB
+Engine allocated memory: 1,000 MB
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// bz (cs):  Open Project : addNotify
+// Opening Vivado Project: C:\Users\ammic\OneDrive\Documents\GitHub\Lab08\Lab08_project\Lab08_project.xpr. Version: Vivado v2020.1 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// Tcl Message: open_project C:/Users/ammic/OneDrive/Documents/GitHub/Lab08/Lab08_project/Lab08_project.xpr 
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project C:/Users/ammic/OneDrive/Documents/GitHub/Lab08/Lab08_project/Lab08_project.xpr 
+// Tcl Message: INFO: [Project 1-313] Project file moved from 'C:/Users/aaron_mendoza1/Documents/GitHub/Lab08/Lab08_project' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// HMemoryUtils.trashcanNow. Engine heap size: 1,000 MB. GUI used memory: 56 MB. Current time: 10/17/20, 1:25:47 PM CDT
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 100 MB (+102156kb) [00:00:29]
+// [Engine Memory]: 1,000 MB (+897513kb) [00:00:29]
+// [GUI Memory]: 116 MB (+11281kb) [00:00:30]
+// [GUI Memory]: 136 MB (+15658kb) [00:00:31]
+// [GUI Memory]: 144 MB (+1189kb) [00:00:35]
+// WARNING: HEventQueue.dispatchEvent() is taking  9575 ms.
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.1/data/ip'. 
+// Tcl Message: open_project: Time (s): cpu = 00:00:33 ; elapsed = 00:00:15 . Memory (MB): peak = 1016.211 ; gain = 0.000 
+// Project name: Lab08_project; location: C:/Users/ammic/OneDrive/Documents/GitHub/Lab08/Lab08_project; part: xc7a35tcpg236-1
+dismissDialog("Open Project"); // bz (cs)
+// WARNING: HSwingWorker (Refresh Filesets Swing Worker) is taking 1121 ms. Increasing delay to 3363 ms.
+// Tcl Command: 'rdi::info_commands {device::*}'
+// Tcl Command: 'rdi::info_commands {debug::*}'
+// Tcl Command: 'rdi::info_commands {*}'
+// WARNING: HTimer (FileMgr Design Graph Update Timer) is taking 453ms to process. Increasing delay to 3000 ms.
+// [GUI Memory]: 156 MB (+4205kb) [00:00:47]
+// WARNING: HTimer (ActiveMsgMonitor Process Messages Timer) is taking 349ms to process. Increasing delay to 2000 ms.
+// WARNING: HSwingWorker (Update Runs Swing Worker) is taking 1039 ms. Increasing delay to 3000 ms.
+// Elapsed time: 1456 seconds
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources]", 12, true); // B (F, cs) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources, sim_2]", 15, true, false, false, false, false, true); // B (F, cs) - Double Click - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources, sim_1]", 16, true); // B (F, cs) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources, sim_1, basys3 (basys3.sv)]", 18, true, false, false, false, false, true); // B (F, cs) - Double Click - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources, sim_1, mux2_test (mux2_test.sv)]", 17, true); // B (F, cs) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources, sim_1, mux2_test (mux2_test.sv)]", 17, true); // B (F, cs) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources, sim_1, mux2_test (mux2_test.sv)]", 17, true, false, false, false, false, true); // B (F, cs) - Double Click - Node
+// Elapsed time: 128 seconds
+selectCodeEditor("mux2_test.sv", 111, 843); // bP (w, cs)
+typeControlKey((HResource) null, "mux2_test.sv", 'c'); // bP (w, cs)
+// Elapsed time: 185 seconds
+selectCodeEditor("mux2_test.sv", 309, 977); // bP (w, cs)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources, sim_3]", 14, true); // B (F, cs) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources, sim_3]", 14, true, false, false, false, false, true); // B (F, cs) - Double Click - Node
+// [GUI Memory]: 163 MB (+178kb) [00:30:21]
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources, sim_3, mux4_test (mux4_test.sv)]", 15, true); // B (F, cs) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources, sim_3, mux4_test (mux4_test.sv)]", 15, true, false, false, false, false, true); // B (F, cs) - Double Click - Node
+// HMemoryUtils.trashcanNow. Engine heap size: 1,000 MB. GUI used memory: 99 MB. Current time: 10/17/20, 1:55:48 PM CDT
+// Elapsed time: 66 seconds
+selectCodeEditor("mux4_test.sv", 927, 642); // bP (w, cs)
+typeControlKey((HResource) null, "mux4_test.sv", 'c'); // bP (w, cs)
+// Elapsed time: 453 seconds
+selectCodeEditor("mux4_test.sv", 551, 977); // bP (w, cs)
+closeView(PAResourceOtoP.PAViews_CODE, "Code"); // F
+closeView(PAResourceOtoP.PAViews_CODE, "Code"); // F
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, basys3 (basys3.sv), sseg4_manual_inst : sseg4_manual (sseg4_manual.sv)]", 2, true); // B (F, cs) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, basys3 (basys3.sv), sseg4_manual_inst : sseg4_manual (sseg4_manual.sv)]", 2, true, false, false, false, false, true); // B (F, cs) - Double Click - Node
+// Elapsed time: 12 seconds
+selectCodeEditor("sseg4_manual.sv", 568, 855); // bP (w, cs)
+closeView(PAResourceOtoP.PAViews_CODE, "Code"); // F
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, basys3 (basys3.sv), sseg4_manual_inst : sseg4_manual (sseg4_manual.sv)]", 2); // B (F, cs)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, basys3 (basys3.sv), sseg4_manual_inst : sseg4_manual (sseg4_manual.sv), mysseg4 : sseg4 (sseg4.sv)]", 3, true); // B (F, cs) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, basys3 (basys3.sv), sseg4_manual_inst : sseg4_manual (sseg4_manual.sv), mysseg4 : sseg4 (sseg4.sv)]", 3, true, false, false, false, false, true); // B (F, cs) - Double Click - Node
+// Elapsed time: 11 seconds
+selectCodeEditor("sseg4.sv", 1157, 616); // bP (w, cs)
+closeView(PAResourceOtoP.PAViews_CODE, "Code"); // F
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, basys3 (basys3.sv), sseg4_manual_inst : sseg4_manual (sseg4_manual.sv), mysseg4 : sseg4 (sseg4.sv)]", 3); // B (F, cs)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, basys3 (basys3.sv), sseg4_manual_inst : sseg4_manual (sseg4_manual.sv), mysseg4 : sseg4 (sseg4.sv), mux2_1 : mux2 (mux2.sv)]", 5, false); // B (F, cs)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, basys3 (basys3.sv), sseg4_manual_inst : sseg4_manual (sseg4_manual.sv), mysseg4 : sseg4 (sseg4.sv), mux2_1 : mux2 (mux2.sv)]", 5, false, false, false, false, false, true); // B (F, cs) - Double Click
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, basys3 (basys3.sv), sseg4_manual_inst : sseg4_manual (sseg4_manual.sv), mysseg4 : sseg4 (sseg4.sv), mymux4 : mux4 (mux4.sv)]", 6, false); // B (F, cs)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, basys3 (basys3.sv), sseg4_manual_inst : sseg4_manual (sseg4_manual.sv), mysseg4 : sseg4 (sseg4.sv), mymux4 : mux4 (mux4.sv)]", 6, false, false, false, false, false, true); // B (F, cs) - Double Click
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, basys3 (basys3.sv), sseg4_manual_inst : sseg4_manual (sseg4_manual.sv), mysseg4 : sseg4 (sseg4.sv), my_an_decoder : an_decoder (an_decoder.sv)]", 8, false); // B (F, cs)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, basys3 (basys3.sv), sseg4_manual_inst : sseg4_manual (sseg4_manual.sv), mysseg4 : sseg4 (sseg4.sv), my_an_decoder : an_decoder (an_decoder.sv)]", 8, false, false, false, false, false, true); // B (F, cs) - Double Click
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "mux2.sv", 1); // m (l, cs)
+selectCodeEditor("mux2.sv", 794, 674); // bP (w, cs)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "mux4.sv", 2); // m (l, cs)
+selectCodeEditor("mux4.sv", 1169, 808); // bP (w, cs)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "an_decoder.sv", 3); // m (l, cs)
